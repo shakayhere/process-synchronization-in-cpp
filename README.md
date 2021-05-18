@@ -24,10 +24,10 @@ process 2: 11 , the process ID is:6757
 ```
 
 #### Before you Start
-You must have `gcc` compiler and `make` installed on your system before testing.
+You must have `g++` compiler and `make` installed on your system before testing.
 
 
-## Install GCC and make on Ubuntu
+## Install G++ and make on Ubuntu
 Start by updating the packages list:
 ```
 sudo apt update
@@ -45,7 +45,7 @@ You may also want to install the manual pages about using GNU/Linux for developm
 sudo apt-get install manpages-dev
 ```
 
-To validate that the GCC compiler is successfully installed, use the `gcc --version` command which prints the GCC version:
+To validate that the G++ compiler is successfully installed, use the `g++ --version` command which prints the G++ version:
 ```
 g++ --version
 ```
