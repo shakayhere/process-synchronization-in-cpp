@@ -47,7 +47,7 @@ sudo apt-get install manpages-dev
 
 To validate that the GCC compiler is successfully installed, use the `gcc --version` command which prints the GCC version:
 ```
-gcc --version
+g++ --version
 ```
 
 ## How to Build and Install
