@@ -2,7 +2,7 @@
 This repository contains a sample code of process synchronization in C++, executable in ubuntu based systems.
 
 ## Getting Started
-The program takes an integer between 10 and 100 as input from the user. Then creates two processes, first process prints the first half of the integers one by one, then the other process prints the remaining. Each process when printing the number also prints its process ID. Process start and end messages should also be printed. Following is an example run:
+The program takes an integer between 10 and 100 as input from the user. Then creates two processes, first process prints the first half of the integers one by one, then the other process prints the remaining. Each process when printing the number also prints its process ID. Process start and end messages is also printed. Following is an example run:
 
 ```
 Enter a number between 10-100: 11
